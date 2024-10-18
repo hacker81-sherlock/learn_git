@@ -1,1 +1,2 @@
-print('hello world')
+username = input('entre your username: ')
+print(f'hello {username}')
